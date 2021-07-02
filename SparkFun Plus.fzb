@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.4.2019-12-01.CD-498-0-a1ffcea" icon="SparkFun_Plus.png">
+    <title>SparkFun Plus</title>
+    <instances>
+        <instance moduleIdRef="__spacer__" modelIndex="85742194" path="Boards">
+            <text>Boards</text>
+            <views/>
+        </instance>
+        <instance moduleIdRef="14812_sfe_redboard_turbo_49026942f9a377310d2261e225cd7442_1" modelIndex="9766" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14812_sfe_redboard_turbo_49026942f9a377310d2261e225cd7442_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14689_sfe_esp32_thing_plus_9bf3e454ae00b80f8f5197bc5a35e64d_1" modelIndex="9771" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14689_sfe_esp32_thing_plus_9bf3e454ae00b80f8f5197bc5a35e64d_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15123_sfe_RedBoard_Qwiic_6c1e9b03ef89a0a4c7c3d1fddc603792_1" modelIndex="9772" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15123_sfe_RedBoard_Qwiic_6c1e9b03ef89a0a4c7c3d1fddc603792_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15444_SparkFun_RedBoard_Artemis_53f908f56f888eda7e890f176515d6fc_1" modelIndex="9798" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15444_SparkFun_RedBoard_Artemis_53f908f56f888eda7e890f176515d6fc_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15443_sfe_redboard_artemis_nano_fbf1ca8cca159e1c438a901081bc6f08_3" modelIndex="9803" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15443_sfe_redboard_artemis_nano_fbf1ca8cca159e1c438a901081bc6f08_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15442_SparkFun_RedBoard_Artemis_ATP_f2528508d4bc00103f9b33dc8cbdc2b7_1" modelIndex="9808" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15442_SparkFun_RedBoard_Artemis_ATP_f2528508d4bc00103f9b33dc8cbdc2b7_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15332_sfe_BlackBoard Artemis_f7dbda118d35c07967f54671589f7ada_1" modelIndex="9837" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15332_sfe_BlackBoard Artemis_f7dbda118d35c07967f54671589f7ada_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14713_sfe_SAMD51_Thing_Plus_2eddd61d42f374c6e85c5e1d0138efc7_1" modelIndex="9911" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14713_sfe_SAMD51_Thing_Plus_2eddd61d42f374c6e85c5e1d0138efc7_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15435-sfe_XBee3_Thing_Plus_60685fb61d94c661dc3fcc535dee49f5_1" modelIndex="9816" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15435-sfe_XBee3_Thing_Plus_60685fb61d94c661dc3fcc535dee49f5_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15411_sfe_BlackBoard_Artemis_Nano_ca1bdbf16d7d1512f0d8304bcd96a69a_3" modelIndex="9821" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15411_sfe_BlackBoard_Artemis_Nano_ca1bdbf16d7d1512f0d8304bcd96a69a_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14483_sfe_AST-CAN485_devboard_c62671c51c447b329e90bbfcce132c45_1" modelIndex="9769" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14483_sfe_AST-CAN485_devboard_c62671c51c447b329e90bbfcce132c45_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15025_sfe_pro_nRF52840_Mini_Bluetooth_Development_Board_f17e3003519e081a49e354b93f87c678_4" modelIndex="9869" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15025_sfe_pro_nRF52840_Mini_Bluetooth_Development_Board_f17e3003519e081a49e354b93f87c678_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15006_esp32_lora_1channel_gateway_1fd157f934b0f4cd0703c6bf5b4442fb_1" modelIndex="9872" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15006_esp32_lora_1channel_gateway_1fd157f934b0f4cd0703c6bf5b4442fb_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="esp32-thing" modelIndex="10080" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/esp32-thing.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BlynkBoard_926709e8081f4cf6b9f4d9780f1603f5_2" modelIndex="10100" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/BlynkBoard_926709e8081f4cf6b9f4d9780f1603f5_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sparkfun-samd21-pro-breakout" modelIndex="10124" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/sparkfun-samd21-pro-breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sparkfun-samd21-mini-breakout" modelIndex="10126" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/sparkfun-samd21-mini-breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="qduino_4eaecad93a820da597049f0ed4061e63_1" modelIndex="10128" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/qduino_4eaecad93a820da597049f0ed4061e63_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13231_sfe_esp8266_thing_19a8289699f2212a4bb03bf9403ce0b2_3" modelIndex="10171" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13231_sfe_esp8266_thing_19a8289699f2212a4bb03bf9403ce0b2_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14130_sfe_roshamglo_2610eeaa0da3cea141a513ec5e0dd642_1" modelIndex="9943" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14130_sfe_roshamglo_2610eeaa0da3cea141a513ec5e0dd642_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_BadgerStick" modelIndex="10110" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/SparkFun_BadgerStick.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-PHOTONREDBOARD_587bb697a9ee3d7fa5c13f541de9ba29_25" modelIndex="10136" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-PHOTONREDBOARD_587bb697a9ee3d7fa5c13f541de9ba29_25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BluetoothMateGold_8df6ed5fa201c9f2f058a974472e8daa_1" modelIndex="10443" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/BluetoothMateGold_8df6ed5fa201c9f2f058a974472e8daa_1.fzp" flippedSMD="true">
+            <property name="flippedSMD" value="true"/>
+            <views/>
+        </instance>
+        <instance moduleIdRef="5v_c9ab9d0abe096534f7658623a0f915c6_2" modelIndex="10439" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/5v_c9ab9d0abe096534f7658623a0f915c6_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_DEV-12757_03_5ef8f943c423ea7554a1252f44c73343_4" modelIndex="10425" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_DEV-12757_03_5ef8f943c423ea7554a1252f44c73343_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="nRF52832_4f424ed80432615d599f85e6d54eddef_2" modelIndex="10068" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/nRF52832_4f424ed80432615d599f85e6d54eddef_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_bc1443dd6e71eb15486d2fcf8052106d_1" modelIndex="10114" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_bc1443dd6e71eb15486d2fcf8052106d_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mega_pro-v13" modelIndex="10790" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/mega_pro-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="__spacer__" modelIndex="85742223" path="Motors">
+            <text>Motors</text>
+            <views/>
+        </instance>
+        <instance moduleIdRef="14451_14450_sfe_motor_driver-dual_TB6612FNG_v11_a9fe8c0da826b571b6170fd748e9b43b_1" modelIndex="9937" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14451_14450_sfe_motor_driver-dual_TB6612FNG_v11_a9fe8c0da826b571b6170fd748e9b43b_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Haptic_Motor_Driver_DRV2605L" modelIndex="9957" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/Haptic_Motor_Driver_DRV2605L.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SerialMotorDriver_b0dd9f223f5ebffce7c07b2929adbf16_2" modelIndex="10078" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SerialMotorDriver_b0dd9f223f5ebffce7c07b2929adbf16_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13302_HobbyGearMotor_01cec7528ccd8379aab84a4537e3e2ac_3" modelIndex="10146" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13302_HobbyGearMotor_01cec7528ccd8379aab84a4537e3e2ac_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13752_sfe_autodriver_stepper_motor_v13_d0c57688401abea393e1a3e93be7fbb8_1" modelIndex="10108" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13752_sfe_autodriver_stepper_motor_v13_d0c57688401abea393e1a3e93be7fbb8_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-ROB-12779_ba2b159d23aa98a27d76e9e2ac81ead3_3" modelIndex="10421" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-ROB-12779_ba2b159d23aa98a27d76e9e2ac81ead3_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_BE_05_6141c24acabf3694f07ff56e0dbf5b9d_2" modelIndex="10408" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_BE_05_6141c24acabf3694f07ff56e0dbf5b9d_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_tb6612_57c693081d87b76fdc311a8472009001_2" modelIndex="10746" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_tb6612_57c693081d87b76fdc311a8472009001_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="__spacer__" modelIndex="85742232" path="Shields">
+            <text>Shields</text>
+            <views/>
+        </instance>
+        <instance moduleIdRef="14997_sfe_lte_cat_m1_shield_sara_r4_eb4b0a6a9cca61b466d8e62f80132864_1" modelIndex="9763" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14997_sfe_lte_cat_m1_shield_sara_r4_eb4b0a6a9cca61b466d8e62f80132864_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14597_sfe_ASTCAN485_Wifi_Shield_9e6054d944ca6ebe3f2cef5543d53f2b_1" modelIndex="9768" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14597_sfe_ASTCAN485_Wifi_Shield_9e6054d944ca6ebe3f2cef5543d53f2b_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Mini_GPS_Shield" modelIndex="9959" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_Mini_GPS_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14598_sfe_AST_CAN485_IO_Shield_24V_6cc18e8a32bc4d2c9263e889150663e9_1" modelIndex="9921" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14598_sfe_AST_CAN485_IO_Shield_24V_6cc18e8a32bc4d2c9263e889150663e9_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14048_sfe_teensyview_oled_95ba0c8e7b9f7c03a80f587fd7a43085_1" modelIndex="9953" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14048_sfe_teensyview_oled_95ba0c8e7b9f7c03a80f587fd7a43085_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShieldWireless" modelIndex="10148" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/ludusProtoShieldWireless.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShield" modelIndex="10142" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/ludusProtoShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_MIDI_Shield" modelIndex="10404" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/SparkFun_MIDI_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_CAN-Bus_Shield" modelIndex="10762" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/SparkFun_CAN-Bus_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix_TouchShield_7ee4a354ebeb33ebaef102dc39cae9cc_5" modelIndex="10784" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix_TouchShield_7ee4a354ebeb33ebaef102dc39cae9cc_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-dev-09627_8197ae45a13768e4d9327c38fb977c73_2" modelIndex="10750" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-dev-09627_8197ae45a13768e4d9327c38fb977c73_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="__spacer__" modelIndex="85742244" path="Sensors">
+            <text>Sensors</text>
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SEN-12705_837f47646b17dabdb779ecf8a765fbd4_5" modelIndex="10427" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SEN-12705_837f47646b17dabdb779ecf8a765fbd4_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE-SEN-12787_f77b04afcc2c622ffe000ad266d5c0d8_10" modelIndex="10416" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE-SEN-12787_f77b04afcc2c622ffe000ad266d5c0d8_10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Pressure_Sensor_Breakout-MS5803-14BA_e009494c3c6e3bd5a68a5678ff422895_2" modelIndex="10402" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_Pressure_Sensor_Breakout-MS5803-14BA_e009494c3c6e3bd5a68a5678ff422895_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15164_sfe_Qwiic_OpenLog_45618f940c33399819d434b2c8df203d_1" modelIndex="9767" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15164_sfe_Qwiic_OpenLog_45618f940c33399819d434b2c8df203d_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14844_sfe_qwiic_ir_array_mlx90640_55x35_de6aba1b502190fd64efea51dcf32afa_4" modelIndex="9876" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14844_sfe_qwiic_ir_array_mlx90640_55x35_de6aba1b502190fd64efea51dcf32afa_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14843_sfe_qwiic_ir_array_mlx90640_110x75_33947b5d1d0ead4c2d7d5471ee00bb2b_3" modelIndex="9878" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14843_sfe_qwiic_ir_array_mlx90640_110x75_33947b5d1d0ead4c2d7d5471ee00bb2b_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14809_sfe_I2S_Audio_Breakout_4c41b47f922ee006940a67a608f1ad66_1" modelIndex="9907" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14809_sfe_I2S_Audio_Breakout_4c41b47f922ee006940a67a608f1ad66_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Papa_Soundie" modelIndex="9923" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/Papa_Soundie.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sparkfun-9dof-razor-imu" modelIndex="9967" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/sparkfun-9dof-razor-imu.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_SSOP16_Breakout" modelIndex="10066" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_SSOP16_Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15441_sfe_AS3935_Lightning_Detector_sensor_8d42bbbf0b0ddeede4ba3f90dba77d2b_1" modelIndex="9813" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15441_sfe_AS3935_Lightning_Detector_sensor_8d42bbbf0b0ddeede4ba3f90dba77d2b_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15289_sfe_gator_microphone_microbit_accessory_c3a6bfc54d2a2966929fe15b0f5c4538_2" modelIndex="9844" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15289_sfe_gator_microphone_microbit_accessory_c3a6bfc54d2a2966929fe15b0f5c4538_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15272_sfe_gator_soil_microbit_accessory_00ebd6484a35753805dfd9ac62d81e59_1" modelIndex="9849" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15272_sfe_gator_soil_microbit_accessory_00ebd6484a35753805dfd9ac62d81e59_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15271_sfe_gator_particle_microbit_accessory_05017b48f159b768ac1886f72f03d10a_1" modelIndex="9854" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15271_sfe_gator_particle_microbit_accessory_05017b48f159b768ac1886f72f03d10a_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15210_sfe_Ublox SAM-M8Q_8050870b64b28887f98968626fde9e09_1" modelIndex="9857" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15210_sfe_Ublox SAM-M8Q_8050870b64b28887f98968626fde9e09_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14193_sfe_CCS811_air_quality_0b79a4b750db24d27b2f541ac4993fe2_1" modelIndex="9941" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14193_sfe_CCS811_air_quality_0b79a4b750db24d27b2f541ac4993fe2_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="12784_sfe_vl6180_breakout_d48a1feab74c53f6eb1fb3d2e898fb62_1" modelIndex="9770" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/12784_sfe_vl6180_breakout_d48a1feab74c53f6eb1fb3d2e898fb62_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15335_sfe_IMU_Breakout_ICM-20948_84006d0ab98eed0d7de4677bf49cae48_1" modelIndex="9829" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15335_sfe_IMU_Breakout_ICM-20948_84006d0ab98eed0d7de4677bf49cae48_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_sfe_soil_moisture_c31d77a1f54b7ad06d6e8b149df680b8_12" modelIndex="10134" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_sfe_soil_moisture_c31d77a1f54b7ad06d6e8b149df680b8_12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_9DoF_Sensor_Stick" modelIndex="10076" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_9DoF_Sensor_Stick.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_HX711_Load_Cell" modelIndex="10088" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_HX711_Load_Cell.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13679_sfe_acs723_current_sensor_edb39fee6500d018afd66042311e3a0f_1" modelIndex="10120" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13679_sfe_acs723_current_sensor_edb39fee6500d018afd66042311e3a0f_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun Load Sensor Combinator" modelIndex="10152" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/SparkFun Load Sensor Combinator.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-SEN-13230_181f048a92de85fccbec3e1a658b0ad7_7" modelIndex="10172" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-SEN-13230_181f048a92de85fccbec3e1a658b0ad7_7.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_MIC-12642_5f393f78a2e555ae6185838c6cbd7010_14" modelIndex="10437" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_MIC-12642_5f393f78a2e555ae6185838c6cbd7010_14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LSM9DS0_2665d91d07831e54455733ac85c73eb2_1" modelIndex="10441" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/LSM9DS0_2665d91d07831e54455733ac85c73eb2_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sfe_mag3110_6edde63c8baf5dfefc78a863f387ee0f_5" modelIndex="10433" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/sfe_mag3110_6edde63c8baf5dfefc78a863f387ee0f_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MAX30105_7c8e2403ab61bbadb742a156a4812001_5" modelIndex="9955" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/MAX30105_7c8e2403ab61bbadb742a156a4812001_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14006_LittleSoundie_27e384fdfd18ab3500a3a3811910be92_6" modelIndex="9961" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14006_LittleSoundie_27e384fdfd18ab3500a3a3811910be92_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_LIS3DH-Breakout" modelIndex="10072" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_LIS3DH-Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13959_HC-SR04_TopView_9267501b49355ea243ab03c892e650bf_3" modelIndex="10074" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13959_HC-SR04_TopView_9267501b49355ea243ab03c892e650bf_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13762_sfe_IMU_Breakout_9250_13b3eb759e3bb6615f39edecd8fbb89a_1" modelIndex="10106" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13762_sfe_IMU_Breakout_9250_13b3eb759e3bb6615f39edecd8fbb89a_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SHT1x-Breakout" modelIndex="10118" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/SHT1x-Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13284_sfe_lsm9ds1_breakout_50fbf5db5d21af27d1de84833fd1843f_4" modelIndex="10150" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13284_sfe_lsm9ds1_breakout_50fbf5db5d21af27d1de84833fd1843f_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TMP102_0236d405bab45be0dce2a8198d00689a_1" modelIndex="10138" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/TMP102_0236d405bab45be0dce2a8198d00689a_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-MAX31855K_df49e6d9e15c6a105020af7c8da23de8_8" modelIndex="10165" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-MAX31855K_df49e6d9e15c6a105020af7c8da23de8_8.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10245_load_sensor_strain_gauge_2a292723a10a925857b4f9647fee8255_1" modelIndex="10766" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/10245_load_sensor_strain_gauge_2a292723a10a925857b4f9647fee8255_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10264_flexSensor_ea7ce46660526fc8d7157f2ef211f63e_4" modelIndex="10772" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/10264_flexSensor_ea7ce46660526fc8d7157f2ef211f63e_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SEN-10621 RPI-1031 Tilt-a-Whirl Breakout-sfe_c4f3fbd3a94f0953d33d8ac83b51e5ac_3" modelIndex="10788" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/obsolete/SEN-10621 RPI-1031 Tilt-a-Whirl Breakout-sfe_c4f3fbd3a94f0953d33d8ac83b51e5ac_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Polar-HeartRate" modelIndex="10704" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_Polar-HeartRate.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun Electret Microphone Breakout_3b30f8ea194b566f8c466727ecfdeeee_3" modelIndex="10758" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun Electret Microphone Breakout_3b30f8ea194b566f8c466727ecfdeeee_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PhotoInterrupterBreakout.fzp_cb9ff9a255e0e71f94ffa86db8d35ab0_5" modelIndex="10742" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/PhotoInterrupterBreakout.fzp_cb9ff9a255e0e71f94ffa86db8d35ab0_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MMA7361-Breakout-v11" modelIndex="10752" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/MMA7361-Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="__spacer__" modelIndex="85742288" path="Power">
+            <text>Power</text>
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_BOB-12700_b27f75bd455298c7d2c471aee8938a9a_5" modelIndex="10429" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE_BOB-12700_b27f75bd455298c7d2c471aee8938a9a_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15697_sfe_fuse_PTC_v2_2724411d2aa5c507c8d4fc6178490eee_1" modelIndex="9792" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15697_sfe_fuse_PTC_v2_2724411d2aa5c507c8d4fc6178490eee_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15697_sfe_fuse_PTC_be55737efbb5b967b1d40cd5fa45e8de_1" modelIndex="9793" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15697_sfe_fuse_PTC_be55737efbb5b967b1d40cd5fa45e8de_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15353_sfe_nano_power_timer_TPL5110_89fa72fb77205b3a6b3f28e949b013a9_1" modelIndex="9826" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15353_sfe_nano_power_timer_TPL5110_89fa72fb77205b3a6b3f28e949b013a9_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="11214_sfe_mosfet_power_controller_0c67df3e0c4e27ff67a6cc9c479082a3_1" modelIndex="9765" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/11214_sfe_mosfet_power_controller_0c67df3e0c4e27ff67a6cc9c479082a3_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14874_sfe_configurable_opamp_board_tsh82_da161865f381c43ce9651c42c4fad237_2" modelIndex="9875" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14874_sfe_configurable_opamp_board_tsh82_da161865f381c43ce9651c42c4fad237_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14765_sfe_Single_Supply_Logic_Converter_832c58889dc5bbd8f9f8f274001c7ca4_1" modelIndex="9908" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14765_sfe_Single_Supply_Logic_Converter_832c58889dc5bbd8f9f8f274001c7ca4_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sparkfun-battery-babysitter" modelIndex="10102" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/sparkfun-battery-babysitter.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="12885_sfe_sunny_buddy_solar_power_de4924a794c4ab4f142040df4845066e_1" modelIndex="10406" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/12885_sfe_sunny_buddy_solar_power_de4924a794c4ab4f142040df4845066e_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_f9797888ab9b62a5d86429d73a023d66_2" modelIndex="9939" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_f9797888ab9b62a5d86429d73a023d66_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Lipo_Fuel_Gauge" modelIndex="10786" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_Lipo_Fuel_Gauge.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_PRT-00341_4108e7b3069fb352aef29a70e21f2739_11" modelIndex="10692" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_PRT-00341_4108e7b3069fb352aef29a70e21f2739_11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_USB_MicroB_Plug_Breakout" modelIndex="10760" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_USB_MicroB_Plug_Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="__spacer__" modelIndex="85742302" path="LED/Display">
+            <text>LED/Display</text>
+            <views/>
+        </instance>
+        <instance moduleIdRef="15143_sfe_LCD_TFT_Breakout_1in8_128x160_55ab61bf4ca137a8d41b1b994beb7c10_1" modelIndex="9861" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15143_sfe_LCD_TFT_Breakout_1in8_128x160_55ab61bf4ca137a8d41b1b994beb7c10_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14072_14073_sfe_16x2_SerLCD_Serial_LCD_970736c81ef66366498f2f8916bd0f18_1" modelIndex="9945" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14072_14073_sfe_16x2_SerLCD_Serial_LCD_970736c81ef66366498f2f8916bd0f18_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13795_sfe_led_badger_array_5ba98165e9152b2f6c8fcdddf7f4d3bb_3" modelIndex="10096" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13795_sfe_led_badger_array_5ba98165e9152b2f6c8fcdddf7f4d3bb_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13795_sfe_LEDArray_8x7_f4e28829df8329baf5fcbf0961ae3dc9_1" modelIndex="10098" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13795_sfe_LEDArray_8x7_f4e28829df8329baf5fcbf0961ae3dc9_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Micro-OLED_Breakout" modelIndex="10388" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_Micro-OLED_Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-13279_b86e3571d1929ae64741d13c63a272fc_6" modelIndex="10154" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-13279_b86e3571d1929ae64741d13c63a272fc_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="femtobuck" modelIndex="10112" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/femtobuck.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SFE_LCD-00709_bc13f5cf95ad6bd8639a3440ffbf50ae_5" modelIndex="10696" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SFE_LCD-00709_bc13f5cf95ad6bd8639a3440ffbf50ae_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Serial_enabled_lcd_kit_lcd_10097_bb8f8e346eaffb3ae755ddebf8a9fb09_2" modelIndex="10764" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/Serial_enabled_lcd_kit_lcd_10097_bb8f8e346eaffb3ae755ddebf8a9fb09_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10862_RGB_Backlight-Basic_16x2_Character_LCD_c49e9921c64642c2817b0f07c7d62f05_2" modelIndex="10792" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/10862_RGB_Backlight-Basic_16x2_Character_LCD_c49e9921c64642c2817b0f07c7d62f05_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_DEV-10889-RGB_LED_d5955f494d9ef46248ae435853a379b1_5" modelIndex="10806" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE_DEV-10889-RGB_LED_d5955f494d9ef46248ae435853a379b1_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_LCD-00258_c40cca0daa9f9df82fee4e71d7f251c1_20" modelIndex="10690" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE_LCD-00258_c40cca0daa9f9df82fee4e71d7f251c1_20.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-09393_3268b41e40fa8edb0f8368c0fa67777a_9" modelIndex="10744" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-09393_3268b41e40fa8edb0f8368c0fa67777a_9.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SFE_COM-11442_f9eb2d57645b65b5c29a164db9135bfe_1" modelIndex="10748" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SFE_COM-11442_f9eb2d57645b65b5c29a164db9135bfe_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE-10467-v10_7c6430cb6ee0fdf27e50a7088396a8cc_1" modelIndex="10782" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE-10467-v10_7c6430cb6ee0fdf27e50a7088396a8cc_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="__spacer__" modelIndex="85742318" path="LilyPad">
+            <text>LilyPad</text>
+            <views/>
+        </instance>
+        <instance moduleIdRef="14631_sfe_lilypad_usb_plus_ef8e091c7d57676cb86b6d793044c70a_3" modelIndex="9916" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14631_sfe_lilypad_usb_plus_ef8e091c7d57676cb86b6d793044c70a_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="11008_sfe_lilypad_vibe_board_f826e9f39f82f16c8c69435214e2173f_1" modelIndex="9764" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/11008_sfe_lilypad_vibe_board_f826e9f39f82f16c8c69435214e2173f_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13343_sfe_lilypad_reed_switch_4acc3143fa631eb5d74cc9be8ae937db_1" modelIndex="10132" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13343_sfe_lilypad_reed_switch_4acc3143fa631eb5d74cc9be8ae937db_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Switched_6c6ae44e1160d9f4081611bfb3dc7d61_1" modelIndex="10084" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/Switched_6c6ae44e1160d9f4081611bfb3dc7d61_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_e4116f42d4d929d7521c96e8636a12ef_1" modelIndex="10086" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_e4116f42d4d929d7521c96e8636a12ef_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_45b3d609adba502f4d0eeebf9390ffdd_1" modelIndex="10734" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_45b3d609adba502f4d0eeebf9390ffdd_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_d34beb492b7ad5652dd1dceb3a99fc1f_1" modelIndex="10736" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_d34beb492b7ad5652dd1dceb3a99fc1f_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="__spacer__" modelIndex="85742326" path="Miscellaneous">
+            <text>Miscellaneous</text>
+            <views/>
+        </instance>
+        <instance moduleIdRef="14460_Pushbutton_red_446750f038919848c247aff768ae4e5c_3" modelIndex="9931" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14460_Pushbutton_red_446750f038919848c247aff768ae4e5c_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14460_Pushbutton_green_e8937c3ee524a986caf64c4d981cf99e_7" modelIndex="9933" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14460_Pushbutton_green_e8937c3ee524a986caf64c4d981cf99e_7.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14460_Pushbutton_blue_e8937c3ee524a986caf64c4d981cf99e_3" modelIndex="9935" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14460_Pushbutton_blue_e8937c3ee524a986caf64c4d981cf99e_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14460_Pushbutton_yellow_446750f038919848c247aff768ae4e5c_6" modelIndex="9929" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14460_Pushbutton_yellow_446750f038919848c247aff768ae4e5c_6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="09190_Pushbutton_black_07e387d4b35d49b1c54b09ee0d777e2d_2" modelIndex="10740" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/09190_Pushbutton_black_07e387d4b35d49b1c54b09ee0d777e2d_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10302_TactileButton_Blue_32989816b9f07847e50a39ba0fcd9516_1" modelIndex="10774" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/10302_TactileButton_Blue_32989816b9f07847e50a39ba0fcd9516_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10302_TactileButton_Green_441850872fb8cebd5cf1a6aa15e5170e_3" modelIndex="10776" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/10302_TactileButton_Green_441850872fb8cebd5cf1a6aa15e5170e_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10302_TactileButton_Red_724555d418d61d7860e02f57265cf3d0_1" modelIndex="10778" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/10302_TactileButton_Red_724555d418d61d7860e02f57265cf3d0_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10302_TactileButton_Yellow_b5a7551c7670ec70b4e2b223fd47dfd3_4" modelIndex="10780" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/10302_TactileButton_Yellow_b5a7551c7670ec70b4e2b223fd47dfd3_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_a8a2c1001ab616817f56cdd9afe898d5_3" modelIndex="9947" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_a8a2c1001ab616817f56cdd9afe898d5_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="15334_sfe__Qwiic_ADC_ADS1015_c9e9b4aa99a3105e123ff9300d1958e8_1" modelIndex="9832" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/15334_sfe__Qwiic_ADC_ADS1015_c9e9b4aa99a3105e123ff9300d1958e8_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14051_sfe_wireless_joystick_536aad88fc9fba091ebf822f1e59e459_1" modelIndex="9949" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14051_sfe_wireless_joystick_536aad88fc9fba091ebf822f1e59e459_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_9381c019c9f2c4f991c7ca14976ede46_5" modelIndex="9951" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_9381c019c9f2c4f991c7ca14976ede46_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14003_sfe_that_1646_breakout_outsmarts_48cb893cb6a73b8b31677141ecba8c02_3" modelIndex="9963" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14003_sfe_that_1646_breakout_outsmarts_48cb893cb6a73b8b31677141ecba8c02_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="14002_sfe_that_1206_breakout_ingenius_cee29693935f2984dd87d827e5d6e98a_1" modelIndex="9965" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/14002_sfe_that_1206_breakout_ingenius_cee29693935f2984dd87d827e5d6e98a_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="microbit_breakout_5a3f4ece8e9f306d699b491cb1e81f2e_2" modelIndex="10070" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/microbit_breakout_5a3f4ece8e9f306d699b491cb1e81f2e_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-74HC4051-8-Channel-Mux-Breakout" modelIndex="10082" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun-74HC4051-8-Channel-Mux-Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Cypress_USBUART_BOB" modelIndex="10092" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/SparkFun_Cypress_USBUART_BOB.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="tsunami" modelIndex="10094" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/tsunami.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Si7021_Breakout_c16b56b10e763c9f14097bb0266627cb_4" modelIndex="10104" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/Si7021_Breakout_c16b56b10e763c9f14097bb0266627cb_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BCA_13a5244592690a7ba3e29c116ee5ca91_3" modelIndex="10116" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/BCA_13a5244592690a7ba3e29c116ee5ca91_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_BME280_Breakout" modelIndex="10122" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/SparkFun_BME280_Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sx1509-breakout" modelIndex="10130" path="D:/MPLAB/fritzing.0.9.4.64.pc/fritzing-parts/core/sx1509-breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13311_sfe_teensy_31_xbee_adapter_febad89485c853828572857a86fecfbd_1" modelIndex="10140" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13311_sfe_teensy_31_xbee_adapter_febad89485c853828572857a86fecfbd_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_LSM303C_6c7d96dadb194e57e3029bbc7ff0f4d7_7" modelIndex="10144" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_LSM303C_6c7d96dadb194e57e3029bbc7ff0f4d7_7.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="openScale_v04" modelIndex="10167" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/openScale_v04.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-SFE_COM_13169_b91d99ee008c2d33ca158c3c119c3823_9" modelIndex="10174" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-SFE_COM_13169_b91d99ee008c2d33ca158c3c119c3823_9.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Proto_Pedal" modelIndex="10178" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/Proto_Pedal.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_Pi-wedge-B-Plus_3efc8e14b398d371b68b037920f8a21e_2" modelIndex="10182" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE_Pi-wedge-B-Plus_3efc8e14b398d371b68b037920f8a21e_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-DEV-13043_657663bba76dcb20ffa08cdf09c6225d_3" modelIndex="10379" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-DEV-13043_657663bba76dcb20ffa08cdf09c6225d_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-DEV-13038_b7ed860cf8601fa5e5c8503e308db86c_4" modelIndex="10384" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-DEV-13038_b7ed860cf8601fa5e5c8503e308db86c_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="13030_sfe_rfid_reader_breakout_board_1d2c9baa326a6516e294aeb549d6a4b8_9" modelIndex="10386" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/13030_sfe_rfid_reader_breakout_board_1d2c9baa326a6516e294aeb549d6a4b8_9.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MicroViewProg" modelIndex="10394" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/MicroViewProg.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MicroView" modelIndex="10396" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/MicroView.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WRL-12775-RFM69BreakoutBoard_a38dda32c32980ca3208f9a1b842fd28_13" modelIndex="10423" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/WRL-12775-RFM69BreakoutBoard_a38dda32c32980ca3208f9a1b842fd28_13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000-digital-sandbox_ab5c5dd609ff8ade05052d2d91b27950_4" modelIndex="10435" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000-digital-sandbox_ab5c5dd609ff8ade05052d2d91b27950_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE-GPS-00177_0697e7d2cb617cf80ae77596eb878674_14" modelIndex="10688" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE-GPS-00177_0697e7d2cb617cf80ae77596eb878674_14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="00544_SparkFun_storage_microsd_v1b_a8b65218825f19c262c1b941b3c9d1f5_4" modelIndex="10694" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/00544_SparkFun_storage_microsd_v1b_a8b65218825f19c262c1b941b3c9d1f5_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="07950_sfe_piezo_buzzer_through_hole_mini_speaker_b9e51aa1e6498ddfaabd12ac53c64f4b_2" modelIndex="10698" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/07950_sfe_piezo_buzzer_through_hole_mini_speaker_b9e51aa1e6498ddfaabd12ac53c64f4b_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="8357_sfe-resettable-ptc-fuse_9ee57a71279a0627e39c51e86eb2b824_3" modelIndex="10700" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/8357_sfe-resettable-ptc-fuse_9ee57a71279a0627e39c51e86eb2b824_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="b8b01fc8dad2e135150456a4703fec41_41" modelIndex="10702" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/Trackballer-v12.fzp_b8b01fc8dad2e135150456a4703fec41_41.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Sen-08680 Soft Potentiometer - 50mm_41c603f84450237f3438ca6bcd1d98d9_3" modelIndex="10706" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/Sen-08680 Soft Potentiometer - 50mm_41c603f84450237f3438ca6bcd1d98d9_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="a28c3ffedcebe31a258d039dbd5c3f35_4" modelIndex="10738" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/loudspeaker.fzp_a28c3ffedcebe31a258d039dbd5c3f35_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix_MPR121Ca_8f6fe5dee13be15340067b37ad087efd_9" modelIndex="10754" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix_MPR121Ca_8f6fe5dee13be15340067b37ad087efd_9.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TSR-3386UT" modelIndex="10756" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/TSR3386UT_Square_Trimming_Potentiometer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix_MPR121Keypad_Backside_16cf61675f055e8187ec0acd25ca4d5d_3" modelIndex="10768" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix_MPR121Keypad_Backside_16cf61675f055e8187ec0acd25ca4d5d_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix_MPR121Keypad_a25bc1d6307c8e2c2911779adea5d359_21" modelIndex="10770" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix_MPR121Keypad_a25bc1d6307c8e2c2911779adea5d359_21.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_DEV-10889-Button_de7dd14462a8500f4833097d47b66d5e_8" modelIndex="10794" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE_DEV-10889-Button_de7dd14462a8500f4833097d47b66d5e_8.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_DEV-10889_Buzzer_18a075c974b3c2d4c3413c7a45fc9b0d_8" modelIndex="10796" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE_DEV-10889_Buzzer_18a075c974b3c2d4c3413c7a45fc9b0d_8.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_DEV-10889_FTDI_73150e88e537a857d16ed8a394d08005_5" modelIndex="10798" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE_DEV-10889_FTDI_73150e88e537a857d16ed8a394d08005_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SparkFun_DEV-10889-Light-Sensor_4986a587fcd494c479bdfce103a7201d_8" modelIndex="10800" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SparkFun_DEV-10889-Light-Sensor_4986a587fcd494c479bdfce103a7201d_8.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_DEV-10889_Pro_Mini_4defaf49201a140af793c40f833c8e90_11" modelIndex="10802" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE_DEV-10889_Pro_Mini_4defaf49201a140af793c40f833c8e90_11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_DEV-10889_Protoboard_75535311f2179b632e5c29bc8218b61a_12" modelIndex="10804" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE_DEV-10889_Protoboard_75535311f2179b632e5c29bc8218b61a_12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_SFE_DEV-10889_2e1b9a81a5fc1f495b326c25a16c39b6_18" modelIndex="10808" path="C:/Users/JORGE CHACON/Documents/Fritzing/parts/contrib/prefix0000_SFE_DEV-10889_2e1b9a81a5fc1f495b326c25a16c39b6_18.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
